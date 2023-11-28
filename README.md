@@ -1,4 +1,4 @@
-# GRIP-Assignment-4
+# GRIP-Task-4
 ## Exploratory Data Analysis Terrorism 
 
 [Global Terrorism dataset](https://bit.ly/2TK5Xn5)
